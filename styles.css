@@ -1,0 +1,26 @@
+h1 {
+    align-content: center;
+    color: white;
+}
+
+main{
+    background-color: aqua;
+}
+
+.body{
+    background-color: rgb(0, 0, 0);
+}
+
+.stitch{
+    width: 250px;
+    height: auto;
+}
+
+.section {
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
